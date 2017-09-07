@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UST COLLEGES</string>
+    <string-array name="Colleges">
+        <item>IICS</item>
+        <item>Faculty of Engineering</item>
+        <item>Faculty of Medicine</item>
+        <item>Faculty of Arts and Letters</item>
+        <item>IPEA</item>
+
+        </string-array>
+    <string-array name="Year">
+        <item>Established 2014</item>
+        <item>Established 1907</item>
+        <item>Established 1871</item>
+        <item>Established 1896</item>
+        <item>Established 1929</item>
+
+    </string-array>
+
+
+</resources>
